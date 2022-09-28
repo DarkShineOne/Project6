@@ -1,0 +1,9 @@
+﻿  main.cpp
+  atomlib.cpp
+C:\Users\phoen\source\repos\Project6\Project6\atomlib.cpp(39,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\phoen\source\repos\Project6\Project6\atomlib.cpp(83,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\phoen\source\repos\Project6\Project6\atomlib.cpp(460,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\phoen\source\repos\Project6\Project6\atomlib.cpp(474,31): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Project6.vcxproj -> C:\Users\phoen\source\repos\Project6\x64\Debug\Project6.exe
